@@ -1,0 +1,7 @@
+.imgFondo{
+    background-image: url('https://uzer.co/en/images/servicio_ux.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    height: 100vh;
+}
